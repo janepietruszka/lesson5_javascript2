@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 19, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jane Pietruszka
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I basically set up an online tax calculator.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://janepietruszka.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to make a tax calculator.
+2. I learned how taxes work.
+3. I learned that married filing separatly and single are somewhat similar when filing taxes.
 
